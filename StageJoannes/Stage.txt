@@ -1,0 +1,11 @@
+Titre du stage : Algorithmes distribués pour le contrôle de la latence dans un réseau optique.
+
+Le sujet de ce stage, dans le contexte du projet national N-GREEN dirigé par Nokia,
+concerne l’évaluation de la latence dans un réseau optique à paquets fixes, opéré
+par un algorithme distribué de routage et de résolution de contention. Il s’agira,
+pour une topologie de réseau simple mais réaliste, pour un modèle fonctionnel de 
+nœud et pour des scénarios de trafic standards, de simuler  cet algorithme 
+distribué, d’en évaluer les performances en termes de latence et, le cas 
+échéant, d’en proposer des améliorations. 
+Ce sujet ne nécessite pas de connaissances particulières en réseau.
+Le simulateur sera développé en langage C.

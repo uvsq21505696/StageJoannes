@@ -1,0 +1,146 @@
+mai 31, 2017 11:20:58 AM net.sf.latexdraw.installer.Installer main
+INFOS: LaTeX version:
+MiKTeX-pdfTeX 2.9.6211 (1.40.17) (MiKTeX 2.9.6210 64-bit)
+Copyright (C) 1982 D. E. Knuth, (C) 1996-2016 Han The Thanh
+TeX is a trademark of the American Mathematical Society.
+using bzip2 version 1.0.6, 6-Sept-2010
+compiled with curl version 7.52.1; using libcurl/7.52.1 WinSSL
+compiled with expat version 2.2; using expat_2.2.0
+compiled with jpeg version 9.2
+compiled with liblzma version 50020022; using 50020022
+compiled with libpng version 1.6.28; using 1.6.28
+compiled with libressl version LibreSSL 2.4.4; using LibreSSL 2.4.4
+compiled with MiKTeX Application Framework version 1.6211; using 1.6211
+compiled with MiKTeX Core version 1.6216; using 1.6233
+compiled with MiKTeX Archive Extractor version 1.6211; using 1.6211
+compiled with MiKTeX Package Manager version 1.6218; using 1.6229
+compiled with poppler version 0.50.0
+compiled with uriparser version 0.8.4
+compiled with zlib version 1.2.10; using 1.2.10
+
+DviPS version:
+This is dvips(k) 5.996 Copyright 2016 Radical Eye Software
+MiKTeX 2.9.6210 64-bit
+Copyright 2016 Radical Eye Software.
+There is NO warranty.  You may redistribute this software
+under the terms of the GNU General Public License
+and the Dvips copyright.
+For more information about these matters, see the files
+named COPYING and dvips.h.
+Primary author of Dvips: T. Rokicki.
+
+PS2PDF version:
+
+Usage: ps2pdf input.ps [output.pdf]
+   or: ps2pdf [options...] input.[e]ps output.pdf
+
+PS2EPSI version:
+"Usage: ps2epsi <infile.ps> <outfile.epi>"
+
+PDFcrop version:pdfcrop: The script engine could not be found.
+pdfcrop: Data: scriptEngine="perl.exe"
+
+
+Java properties:
+java.runtime.name: Java(TM) SE Runtime Environment
+sun.boot.library.path: C:\Program Files\Java\jre1.8.0_74\bin
+java.vm.version: 25.74-b02
+java.vm.vendor: Oracle Corporation
+java.vendor.url: http://java.oracle.com/
+path.separator: ;
+java.vm.name: Java HotSpot(TM) 64-Bit Server VM
+file.encoding.pkg: sun.io
+user.country: FR
+user.script: 
+sun.java.launcher: SUN_STANDARD
+sun.os.patch.level: 
+java.vm.specification.name: Java Virtual Machine Specification
+user.dir: C:\Users\pc\Desktop\StageM2\LaTeXDraw-3.3.5
+java.runtime.version: 1.8.0_74-b02
+java.awt.graphicsenv: sun.awt.Win32GraphicsEnvironment
+java.endorsed.dirs: C:\Program Files\Java\jre1.8.0_74\lib\endorsed
+os.arch: amd64
+java.io.tmpdir: C:\Users\pc\AppData\Local\Temp\
+line.separator: 
+
+java.vm.specification.vendor: Oracle Corporation
+user.variant: 
+os.name: Windows 8.1
+sun.jnu.encoding: Cp1252
+java.library.path: C:\Program Files\Java\jre1.8.0_74\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\EasyPHP-DevServer-14.1VC9\binaries\php\php_runningversion;C:\Program Files (x86)\EasyPHP-DevServer-13.1VC9\binaries\php\php_runningversion;C:\Program Files\Broadcom\Broadcom 802.11 Network Adapter;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\apache-maven-2.2.1\bin;JAVA_HOME;C:\Program Files (x86)\Microsoft SQL Server\100\Tools\Binn\;C:\Program Files (x86)\Microsoft SQL Server\100\DTS\Binn\;C:\MinGW\bin;C:\Program Files (x86)\gnuplot\bin;C:\Program Files\MiKTeX 2.9\miktex\bin\x64\;C:\Program Files (x86)\Skype\Phone\;.
+java.specification.name: Java Platform API Specification
+java.class.version: 52.0
+sun.management.compiler: HotSpot 64-Bit Tiered Compilers
+os.version: 6.3
+user.home: C:\Users\pc
+user.timezone: 
+java.awt.printerjob: sun.awt.windows.WPrinterJob
+file.encoding: Cp1252
+java.specification.version: 1.8
+java.class.path: C:\Users\pc\Desktop\StageM2\LaTeXDraw-3.3.5\installer.jar
+user.name: pc
+java.vm.specification.version: 1.8
+sun.java.command: C:\Users\pc\Desktop\StageM2\LaTeXDraw-3.3.5\installer.jar C:\Users\pc\Desktop\StageM2\LaTeXDraw-3.3.5\installer.jar
+java.home: C:\Program Files\Java\jre1.8.0_74
+sun.arch.data.model: 64
+user.language: fr
+java.specification.vendor: Oracle Corporation
+awt.toolkit: sun.awt.windows.WToolkit
+java.vm.info: mixed mode
+java.version: 1.8.0_74
+java.ext.dirs: C:\Program Files\Java\jre1.8.0_74\lib\ext;C:\Windows\Sun\Java\lib\ext
+sun.boot.class.path: C:\Program Files\Java\jre1.8.0_74\lib\resources.jar;C:\Program Files\Java\jre1.8.0_74\lib\rt.jar;C:\Program Files\Java\jre1.8.0_74\lib\sunrsasign.jar;C:\Program Files\Java\jre1.8.0_74\lib\jsse.jar;C:\Program Files\Java\jre1.8.0_74\lib\jce.jar;C:\Program Files\Java\jre1.8.0_74\lib\charsets.jar;C:\Program Files\Java\jre1.8.0_74\lib\jfr.jar;C:\Program Files\Java\jre1.8.0_74\classes
+java.vendor: Oracle Corporation
+file.separator: \
+java.vendor.url.bug: http://bugreport.sun.com/bugreport/
+sun.io.unicode.encoding: UnicodeLittle
+sun.cpu.endian: little
+sun.desktop: windows
+sun.cpu.isalist: amd64
+
+mai 31, 2017 11:20:59 AM net.sf.latexdraw.installer.Installer <init>
+INFOS: Linux? false
+mai 31, 2017 11:20:59 AM net.sf.latexdraw.installer.Slide install
+INFOS: Slide: StartSlide
+mai 31, 2017 11:20:59 AM net.sf.latexdraw.installer.StartSlide init
+INFOS: Java lesser than 1.7? false
+mai 31, 2017 11:20:59 AM net.sf.latexdraw.installer.StartSlide init
+INFOS: is Vista? false
+mai 31, 2017 11:21:03 AM net.sf.latexdraw.installer.Slide install
+INFOS: Slide: ChooseDirSlide
+mai 31, 2017 11:21:03 AM net.sf.latexdraw.installer.ChooseDirSlide init
+INFOS: Predefined install path: C:\Program Files exists? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.Slide install
+INFOS: Slide: InstallSlide
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.util.LPath checkInstallDirectories
+INFOS: /usr/share/latexdraw created? false
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.util.LPath checkInstallDirectories
+INFOS: /usr/share/latexdraw\templates created? false
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.util.LPath checkDirectories
+INFOS: C:\Users\pc/.latexdraw created? false
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.util.LPath checkDirectories
+INFOS: C:\Users\pc/.latexdraw\templates created? false
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.util.LPath checkDirectories
+INFOS: C:\Users\pc/.latexdraw\.cache created? false
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.util.LPath checkDirectories
+INFOS: C:\Users\pc/.latexdraw\.cacheShared created? false
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: Templates copied? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: Cache copied? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: Installation path: C:\Program Files\latexdraw. Exists? false
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: C:\Program Files\latexdraw created? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: C:\Program Files\latexdraw exists? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: C:\Program Files\latexdraw jar file copied? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: C:\Program Files\latexdraw license file copied? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: C:\Program Files\latexdraw release_note file copied? true
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide run
+INFOS: /C:/Users/pc/Desktop/StageM2/LaTeXDraw-3.3.5\data\lib libs copied? true in C:\Program Files\latexdraw\lib (exists? true)
+mai 31, 2017 11:21:06 AM net.sf.latexdraw.installer.InstallSlide createProgramLauncher
+GRAVE: C:\Users\pc\Desktop\StageM2\LaTeXDraw-3.3.5\createShortcut.vbs exists? true
